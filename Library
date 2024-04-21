@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Rosewood Public Library</title>
+    <style>
+        h1, h2, h3 {
+            font-family: Segoe UI;
+            color: darkblue;
+        }
+
+        body {
+            font-family: Book Antiqua;
+            background-color: lightblue;
+        }
+
+        table, th, td {
+            border: 1px solid darkblue;
+            border-collapse: collapse;
+            padding: 25px;
+        }
+
+    </style>
+</head>
+
+<body>
+    <center>
+        <p>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpAkUQOGEyxFgfO7pd5BjihXjSCLAN5Iyz7w&usqp=CAU" alt="Our Logo" style="height:180px;">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7EbukMhCV_EZnl2_mvi60I9is_WrvoVYztw&usqp=CAU" alt="Our Logo" style="height:180px;">
+            <h1><marquee>Rosewood Public Library</marquee></h1>
+
+            <h3>Address: 82/7A, S D Avenue, Rosewood, Pennsylvania</h3>
+            <h3>Timings: 9 AM to 9 PM, everyday</h3>
+        </p>
+
+        <h2>About Us</h2>
+        <p> The Rosewood Public Library was started in 2020, to take our love of reading to the next level. We have collected pre-owned and pre-loved books from our friends and family all over the country for the last five years for this venture. We invite all book lovers and book readers to join us on our journey. </p>
+        <p> Do drop by to read something new today! Kindly follow all COVID protocols like wearing masks at all times, maintaining social distancing and carrying your hand sanitisers. </p>
+
+        <br>
+
+        <h2>What's New?</h2>
+        <table>
+            <th><h3>Cover</h3></th>
+            <th><h3>Details</h3></th>
+            <th><h3>Genre</h3></th>
+
+            <tr>
+                <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ZMllYAfq-OunxOAyHvA5gKuW3T8mh2ukRw&usqp=CAU"></td>
+                <td>Matrix
+                    <br>Novel by Lauren Groff</td>
+                <td>Literary, Fiction</td>
+            </tr>
+
+            <tr>
+				<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdImFNUno0xSyBvUln5huIOLHhK1ef8j7Rug&usqp=CAU"></td>
+				<td>How the Word Is Passed: A Reckoning with the History of Slavery Across America
+				<br>Book by Clint Smith</td>
+				<td>History, Race & Ethnic Relations</td>
+			</tr>
+
+			<tr>
+				<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHPPt9AEaxfZRVE_CrBCQLmi7NC9e5mcg3og&usqp=CAU"></td>
+				<td>The Final Revival of Opal & Nev
+				<br>Book by Dawnie Walton</td>
+				<td>Fiction, Cultural Heritage</td>
+			</tr>
+
+			<tr>
+				<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWSUyoyzwVdqo6ZJpNS4-EIlfD1rS44nN72Q&usqp=CAU"></td>
+				<td>The Lincoln Highway
+				<br>Novel by Amor Towles</td>
+				<td>Historical Fiction, Coming-of-age story</td>
+			</tr>
+
+			<tr>
+				<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmJTjpLmIkw8Ic6DdeNXIdQH7Qkzq1_Sq88w&usqp=CAU"></td>
+				<td>Invisible Child: Poverty, Survival & Hope in an American City
+				<br>Book by Andrea Elliott</td>
+				<td>Biography & Autobiography</td>
+			</tr>
+
+			<tr>
+				<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt72-GyfAA6FDLBHrHG7sdncDWqkKD0PgsbQ&usqp=CAU"></td>
+				<td>Harlem Shuffle
+				<br>Novel by Colson Whitehead</td>
+				<td>Crime fiction, Thriller</td>
+			</tr>
+
+			<tr>
+				<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeR_OxyvivvU86LQ6rsdZeKTi0icOdcpl5wA&usqp=CAU"></td>
+				<td>Cloud Cuckoo Land
+				<br>Book by Anthony Doerr</td>
+				<td>Science Fiction</td>
+			</tr>
+
+			<tr>
+				<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxr87s2w60cacru8oFX95rvBmeiM5J7hRRKg&usqp=CAU"></td>
+				<td>These Precious Days
+				<br>Book by Ann Patchett</td>
+				<td>Essay, Biogrpahy</td>
+			</tr>
+
+			<tr>
+				<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU2apLMq762amXHS427psdFEQxn9LXgD92UQ&usqp=CAU"></td>
+				<td>Crying in H Mart
+				<br>Book by Michelle Zauner</td>
+				<td>Biography, Autobiography</td>
+			</tr>
+
+			<tr>
+				<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7NVdw4FLTI6XIeiYtrdkS1tuZyRvTHjzk1w&usqp=CAU"></td>
+				<td>Aftershocks
+				<br>Book by Nadia Owusu</td>
+				<td>Memoir, Autobiography</td>
+			</tr>
+
+			<tr>
+				<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJPnYpdcahNJ0njWdYJE0WNoitsInuQB-OZg&usqp=CAU"></td>
+				<td>Crossroads
+				<br>Novel by Jonathan Franzen</td>
+				<td>Fiction</td>
+			</tr>
+
+			<tr>
+				<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7s1FrvxeHHMq0NpqGbTGF0rXnoqrA_1xcaQ&usqp=CAU"></td>
+				<td>The Love Songs of W.E.B. Du Bois
+				<br>Novel by Honorée Fanonne Jeffers</td>
+				<td>Fiction</td>
+			</tr>
+
+			<tr>
+				<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA00MIof8p5Fdcsib5_vRKDhJRfyW2wjh6Mg&usqp=CAU"></td>
+				<td>Beautiful Country
+				<br>Book by Qian Julie Wang</td>
+				<td>Memoir</td>
+			</tr>
+
+			<tr>
+				<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC1qEqIpEne_lwIUliCHxMgq6ohKE5VTy4Cg&usqp=CAU"></td>
+				<td>Project Hail Mary
+				<br>Novel by Andy Weir</td>
+				<td>Science Fition</td>
+			</tr>
+
+			<tr>
+				<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Q55KrofmOW0BotpsoHzYdjGTht9cGF0ORw&usqp=CAU"></td>
+				<td>Klara and the Sun
+				<br>Novel by Kazuo Ishiguro</td>
+				<td>Science Fition</td>
+			</tr>
+        </table>
+
+        <br>
+
+        <h2>Contact Us</h2>
+        <ul>
+            <li>Contact Number: +91 9876543210</li>
+            <li>Email ID: srijukta.06@gmail.com</li>
+            <li>Social Media: <a href="https://www.facebook.com/yourlibrary">Visit our Facebook page</a></li>
+            <li>(Designed by: Srijukta Dhar)</li>
+        </ul>
+
+    </center>
+</body>
+</html>
