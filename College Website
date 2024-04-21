@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Bethune College</title>
+	<style>
+		h2, h3 {
+			color: red;
+			font-family: 'Bookman Old Style', sans-serif;
+		}
+		
+		dt, th, caption {
+			color: orange;
+			font-family: 'Microsoft Sans Serif', sans-serif;
+		}
+		
+		table, th, td {
+			border: 2px solid maroon;
+			border-collapse: collapse;
+			padding: 10px;
+		}
+	</style>
+</head>
+
+<body>
+	<center>
+		<img src="http://www.bethunecollege.ac.in/images/bethune-college-logo-350.png" alt="Bethune College, Kolkata">
+		<h2>"Vidya Vindatey Amritam" - 'Knowledge provides immortal bliss'.</h2>
+		<img src="http://www.bethunecollege.ac.in/images/slides/2021/slider-A2-2021.jpg" alt="College campus" width="49%" height="200">
+		<img src="http://www.bethunecollege.ac.in/images/slides/2021/slider-A3-2021.jpg" alt="College campus" width="49%" height="200">
+
+		<dl>
+			<dt><h3>Estd. in 1879</h3></dt>
+			<dd>Bethune College, a centre for academic excellence and achievement, started its journey in 1879. It is the first women's college in Asia.</dd>
+
+			<dt><h3>Accreditation</h3></dt>
+			<dd>Reaccredited at the 'A' Level by NAAC (Cycle 2), 2015</dd>
+			<dd>Ranked 16th in Education World India Non-autonomous Colleges Rankings 2021</dd>
+
+			<dt><h3>NIRF Ranking</h3></dt>
+			<dd>Bethune College has been placed in the 77th position in the College Category in <a href="https://www.nirfindia.org/2021/CollegeRanking.html" target="_blank">NIRF ranking (2021)</a>. It is the only Government College from West Bengal to feature among the first hundred colleges in the country.</dd>
+
+			<dt><h3>DBT Star College</h3></dt>
+			<dd>Received financial support under the DBT Star College Scheme of the Department of Biotechnology, Ministry of Science and Technology, Government of India in 2020</dd>
+			<dd><a href="http://www.bethunecollege.ac.in/BethuneCollege-DBTstar.htm" target="_blank"></a></dd>
+		</dl>
+		<br>
+
+		<h2>Why choose Bethune College?</h2>
+		<p>Established in 1879, Bethune College ushered in, for the women of the 19th century, a new era of enlightenment and edification through education. This is a government College, under the aegis of the Dept. of Higher Education, West Bengal. Accredited in 200g with the 'A' grade and having acquired the coveted status of College with Potential for Excellence (CPE) by UGC and recognised by DST-FIST. Bethune College has celebrated 143 long years of tireless striving for knowledge which enriches the mind and enhances the soul.</p>
+
+		<img src="http://www.bethunecollege.ac.in/images/virtualTour/virtualTour.jpg" alt="Campus Tour" width="30%" height="250"><br>
+		<a href="https://www.youtube.com/watch?v=or1ZwXTQL4g&ab_channel=KohlKarmakar" target="_blank">Take a Virtual Campus Tour!</a>
+		<br>
+		<br>
+
+		<table width="50%">
+			<caption><h2>Programmes Offered</h2>
+			<h3>(Under CBCS, University of Calcutta)</h3>
+			For admission to these courses, <a href="https://www.bethuneadmissions.ac.in/" target="_blank">click here</a></caption>
+			<th>Department</th>
+			<th>Courses</th>
+			<th>Intake</th>
+			<th>Faculty</th>
+
+			<tr>
+				<td>Bengali</td>
+				<td>B.A. Honours
+				<br>M.A.</td>
+				<td>38
+				<br>23</td>
+				<td>9</td>
+			</tr>
+
+      <tr>
+		<td>Botany</td>
+		<td>B.Sc. Honours
+		<br>M.Sc.</td>
+		<td>36
+		<br>21</td>
+		<td>9</td>
+	</tr>
+
+	<tr>
+		<td>Chemistry</td>
+		<td>B.Sc. Honours</td>
+		<td>36</td>
+		<td>9</td>
+	</tr>
+
+	<tr>
+		<td>Computer Science</td>
+		<td>B.Sc. Honours</td>
+		<td>23</td>
+		<td>6</td>
+	</tr>
+
+	<tr>
+		<td>Economics</td>
+		<td>B.Sc. Honours</td>
+		<td>36</td>
+		<td>3</td>
+	</tr>
+
+	<tr>
+		<td>English</td>
+		<td>B.A. Honours
+		<br>M.A.</td>
+		<td>38
+		<br>23</td>
+		<td>9</td>
+	</tr>
+
+	<tr>
+		<td>Hindi</td>
+		<td>B.A. Honours</td>
+		<td>20</td>
+		<td>3</td>
+	</tr>
+
+	<tr>
+		<td>History</td>
+		<td>B.A. Honours</td>
+		<td>38</td>
+		<td>5</td>
+	</tr>
+
+	<tr>
+		<td>Mathematics</td>
+		<td>B.Sc. Honours
+		<br>M.Sc.</td>
+		<td>36
+		<br>15</td>
+		<td>8</td>
+	</tr>
+
+	<tr>
+		<td>Philosophy</td>
+		<td>B.A. Honours</td>
+		<td>38</td>
+		<td>3</td>
+	</tr>
+
+	<tr>
+		<td>Physics</td>
+		<td>B.Sc. Honours</td>
+		<td>36</td>
+		<td>7</td>
+	</tr>
+
+	<tr>
+		<td>Political Science</td>
+		<td>B.A. Honours</td>
+		<td>38</td>
+		<td>4</td>
+	</tr>
+
+	<tr>
+		<td>Psychology</td>
+		<td>B.A./B.Sc Honours
+		<br>M.Sc.</td>
+		<td>40 (20+20)
+		<br>10</td>
+		<td>5</td>
+	</tr>
+
+	<tr>
+		<td>Sanskrit</td>		
+		<td>B.A. Honours</td>
+		<td>40</td>
+		<td>4</td>
+	</tr>
+
+	<tr>
+		<td>Statistics</td>
+		<td>B.Sc. Honours</td>
+		<td>18</td>
+		<td>5</td>
+	</tr>
+
+	<tr>
+		<td>Zoology</td>
+		<td>B.Sc. Honours
+		<br>M.Sc.</td>
+		<td>36
+		<br>21</td>
+		<td>9</td>
+	</tr>
+
+
+		</table>
+		<br>
+
+		<dl>
+			<h2>Student's Corner</h2>
+			
+			<dt>B.A./B.Sc. Hons (CBCS) Examination 2022</dt>
+			<dd>B.A./B.Sc. Hons (CBCS) Examination 2022 Semester 3 & 5 & B.A. / B.Sc. Hons(1+1+1) Part I & Part II Examination 2022 are announced to be held on and from 15th January 2022 as per schedule of University of Calcutta.
+			<a href="http://www.bethunecollege.ac.in/notifications/collegenotices/2022/2021-SemIII-and-V-TheoryExamSchedule-07Jan2022.pdf" target="_blank">View schedule</a></dd>
+
+			<dt>Students' Week</dt>
+			<dd>As a part of the initiatives taken by the Department of Higher Education, Govt. of West Bengal, Bethune
+			College is going to observe the Students’ Week from 01.01.2022 to 07.01.2022.
+			<a href="http://www.bethunecollege.ac.in/events/2022/studentsweek2022/StudentsWeek2022-Notice.pdf" target="_blank">View notice</a></dd>
+
+			<dt>Bethune College Webinars</dt>
+			<dd>View all the students' workshops and webinars at our <a href="https://www.youtube.com/channel/UCW8STbB-HeLEEAhOo8_gQvg/featured" target="_blank">YouTube channel</a></dd>
+
+		</dl>
+		<br>
+
+		<table width="70%">
+			<caption><h2>Distinguished Alumni</h2></caption>
+			<th>Image</th>
+			<th>Name</th>
+			<th width="60%">Field</th>
+      <tr>
+		<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Chandramukhi_Bose.jpg/375px-Chandramukhi_Bose.jpg" height=150></td>
+		<td>Chandramukhi Bose<br>
+		(1860-1944)</td>
+		<td>Educationist & Scholar<br>
+		One of the first two female graduates of the British Empire, she passed the BA examination from the University of Calcutta in 1882.</td>
+	</tr>
+
+	<tr>
+		<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Kadambini_Ganguly.jpg/300px-Kadambini_Ganguly.jpg" height=150></td>
+		<td>Kadambini Ganguly (Nee Bose)<br>
+		(1861-1923)</td>
+		<td>Doctor<br>
+		She was one of the first two female graduates of the British Empire and also the first Indian woman to practice medicine in India.</td>
+	</tr>
+
+	<tr>
+		<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kamini_Roy.jpg/330px-Kamini_Roy.jpg" height=150></td>
+		<td>Kamini Roy
+		<br>(1864-1933)</td>
+		<td>Poet and Author<br>
+		She was a Bengali poet, social worker and feminist in British India. She was the first woman honours graduate in British India.</td>
+	</tr>
+
+	<tr>
+		<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Lady_Abala_Bose.jpg/338px-Lady_Abala_Bose.jpg" height=150></td>
+		<td>Lady Abala Bose<br>
+		(1865-1951)</td>
+		<td>Educationist, Social and Political Activist<br>
+		She was known for her efforts in women's education and her contribution towards helping widows.</td>
+	</tr>
+
+	<tr>
+		<td><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Sarala_Devi_Chaudhurani.jpg" height=150></td>
+		<td>Sarala Devi Chaudhurani (Nee Ghosal)
+		<br>(1872-1945)</td>
+		<td>Educationist, Social and Political Activist<br>
+		She was an educationist and political activist, who founded Bharat Stree Mahamandal in Allahabad in 1910. This was the first women's organization in India, primarily to promote female education.</td>
+	</tr>
+
+	<tr>
+		<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Lila_Nag.jpg/330px-Lila_Nag.jpg" height=150></td>
+		<td>Leela Roy (nee Nag)
+		<br>(1900-1970)</td>
+		<td>Educationist, Social and Political Activist<br>
+		She was a progressive Indian woman politician and reformer, and a close associate of Netaji Subhash Chandra Bose.</td>
+	</tr>
+
+	<tr>
+		<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sri_Kamala_Dasgupta.jpg/330px-Sri_Kamala_Dasgupta.jpg" height=150></td>
+		<td>Kamala Dasgupta
+		<br>(1907-2000)</td>
+		<td>Political Activist and revolutionary<br>
+		She was an Indian freedom fighter.</td>
+	</tr>
+
+	<tr>
+		<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Original_Archived_photo_of_Pritilata_Waddedar.jpg/330px-Original_Archived_photo_of_Pritilata_Waddedar.jpg" height=150></td>
+		<td>Pritilata Waddedar<br>
+		(1911-1932)</td>
+		<td>Revolutionary<br>
+		She was a Bengali revolutionary nationalist from the Indian subcontinent who was influential in the Indian independence movement.</td>
+	</tr>
+
+	<tr>
+		<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sri_Kalpana_Dutt.jpg/330px-Sri_Kalpana_Dutt.jpg" height=150></td>
+		<td>Kalpana Joshi (Dutt)
+		<br>(1913 - 1995)</td>
+		<td>Revolutionary<br>
+		She was an Indian independence movement activist and a member of the armed independence movement led by Surya Sen, which carried out the Chittagong armoury raid in 1930.</td>
+	</tr>
+
+	<tr>
+		<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sadhana_Bose.jpg/330px-Sadhana_Bose.jpg" height=150></td>
+		<td>Sadhana Bose (nee Sen)
+		<br>(1914 - 1973)</td>
+		<td>Actress<br>
+		She was a renowned danseuse cum actress.</td>
+	</tr>
+
+	<tr>
+		<td><img src="https://upload.wikimedia.org/wikipedia/en/7/7d/Asima_Chatterjee_1.jpg" height=150></td>
+		<td>Dr. (Prof.)Asima Chatterjee
+		<br>(1917-2006)</td>
+		<td>Academician<br>
+		She was an Indian organic chemist noted for her work in the fields of organic chemistry and phytomedicine. She was the first woman to receive a Doctorate of Science from an Indian university.</td>
+	</tr>
+
+	<tr>
+		<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Shobha_Sen_-_Kolkata_2010-01-16_4215.JPG/330px-Shobha_Sen_-_Kolkata_2010-01-16_4215.JPG" height=150></td>
+		<td>Shobha Sen
+		<br>(1923-2017)</td>
+		<td>Eminent theatre and film personality<br>
+		She was a Bengali theatre and film actress.</td>
+	</tr>
+
+	<tr>
+		<td><img src="https://upload.wikimedia.org/wikipedia/en/7/7f/Arjun_Award.jpg" height=150></td>
+		<td>Krishna Das
+		<br>(1959-)</td>
+		<td>Archer<br>
+		She  represented India in the Asian Games twice, and in three Asian Archery meets. She was the first archer to receive the Indian Government's Arjuna Award to recognise outstanding sportspersons in 1984.</td>
+	</tr>
+
+	<tr>
+		<td><img src="http://www.bethunecollege.ac.in/alumni/images/Bratati-Bandyopadhyay.jpg" alt ="Bratati Bandyopadhyay" height=150></td>
+		<td>Bratati Bandyopadhyay
+		<br>(1966-)</td>
+		<td>Elocutionist<br>
+		She an internationally acclaimed Bengali language elocutionist.</td>
+	</tr>
+
+	<tr>
+		<td><img src="http://www.bethunecollege.ac.in/alumni/images/Neena-Gupta.jpg" alt="Neena Gupta" height=150></td>
+		<td>Dr. (Prof.) Neena Gupta
+		<br>(1984-)</td>
+		<td>Mathematician<br>
+		She received the prestigious Ramanujan Prize for Young Mathematicians in 2021 for her solution to the Zariski Cancellation Problem for affine spaces. </td>
+	</tr>
+		</table>
+		<br>
+
+		<ul>
+			<h2>Contact us</h2>	
+		<li>Address: Bethune College, Kolkata
+	<br>181, Bidhan Sarani, Kolkata 700006, West Bengal, India</li>
+	<li>Location: <a href="https://www.google.com/maps/place/Bethune+College/@22.588032,88.368034,16z/data=!4m5!3m4!1s0x0:0x3158fb0f8b2ef6de!8m2!3d22.5880318!4d88.3680344?hl=en-GB" target="_blank">View on Google Maps</a></li>
+	<li>Contact Number: 033 2257-1712</li>
+	<li>Email ID: bethunecollege1879@gmail.com</li>
+	<li>YouTube: <a href="https://www.youtube.com/channel/UCigB5gmvXKVPlCvBJ8sEW_g" target="_blank">Click here</a></li>
+	<li>(Designed by: Srijukta Dhar, M.Sc Chemistry, Semester I)</li>
+</ul>
+
+</center>
+</body>
+</html>
+
