@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Café Menu</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            padding: 20px;
+            background-image: url("https://images.rawpixel.com/image_600/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdXB3azYxNzEzMDg2LXdpa2ltZWRpYS1pbWFnZS1qb2I1NzItMS5qcGc.jpg?s=vkSc9-Cbjz7zC2eceALT5he3sLutK9UMOaEIQGxBCNk");
+            color: black;
+        }
+
+        .menu {
+            margin: auto;
+            width: 80%;
+            max-width: 500px;
+            padding: 20px;
+            background-color: burlywood;
+        }
+
+        hr {
+            height: 3px;
+            background-color: brown;
+            border: 0;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+
+        header {
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 40px;
+            margin-bottom: 15px;
+        }
+
+        .established {
+            font-style: italic;
+        }
+
+        h2 {
+            margin-bottom: 20px;
+            font-size: 30px;
+        }
+
+        h1,
+        h2 {
+            font-family: "Impact", serif;
+        }
+
+        section {
+            margin: 20px 0;
+        }
+
+        .item p {
+            display: inline-block;
+            margin-top: 5px;
+            margin-bottom: 5px;
+            font-size: 18px;
+        }
+
+        .name {
+            width: 69%;
+        }
+
+        .price {
+            width: 29%;
+            text-align: right;
+        }
+
+        footer {
+            text-align: center;
+        }
+
+        footer p,
+        footer a {
+            font-size: 14px;
+        }
+
+        a {
+            color: black;
+        }
+
+        .menu-icon {
+            margin-top: -15px;
+            height: 50px;
+        }
+
+        .coffee-icon {
+            height: 45px;
+        }
+    </style>
+</head>
+
+<body>
+<div class="menu">
+    <header class="title-header">
+        <h1>Sree's Café</h1>
+        <p class="established">Est. 2020</p>
+    </header>
+
+    <hr>
+    <main>
+        <section>
+            <header>
+                <h2>Coffee</h2>
+                <img class="menu-icon coffee-icon" src="https://static.thenounproject.com/png/200139-200.png">
+            </header>
+            <article class="item">
+                <p class="name">Carmel Macchiato</p>
+                <p class="price">375</p>
+            </article>
+            <article class="item">
+                <p class="name">Pumpkin Spice</p>
+                <p class="price">350</p>
+            </article>
+            <article class="item">
+                <p class="name">French Vanilla</p>
+                <p class="price">300</p>
+            </article>
+            <article class="item">
+                <p class="name">Americano</p>
+                <p class="price">300</p>
+            </article>
+            <article class="item">
+                <p class="name">Hazelnut</p>
+                <p class="price">400</p>
+            </article>
+            <article class="item">
+                <p class="name">Mocha</p>
+                <p class="price">450</p>
+            </article>
+            <article class="item">
+                <p class="name">Latte</p>
+                <p class="price">350</p>
+            </article>
+        </section>
+
+        <section>
+            <header>
+                <h2>Desserts</h2>
+                <img class="menu-icon" src="https://static.thenounproject.com/png/28036-200.png">
+            </header>
+            <article class="item">
+                <p class="name">Donut</p>
+                <p class="price">150</p>
+            </article>
+            <article class="item">
+                <p class="name">Croissant</p>
+                <p class="price">300</p>
+            </article>
+            <article class="item">
+                <p class="name">Cherry Pie</p>
+                <p class="price">275</p>
+            </article>
+            <article class="item">
+                <p class="name">Cheesecake</p>
+                <p class="price">300</p>
+            </article>
+            <article class="item">
+                <p class="name">Cinnamon Roll</p>
+                <p class="price">250</p>
+            </article>
+            <article class="item">
+                <p class="name">Oatmeal Cookies</p>
+                <p class="price">350</p>
+            </article>
+            <article class="item">
+                <p class="name">Mixed Berry Muffins</p>
+                <p class="price">400</p>
+            </article>
+        </section>
+    </main>
+    <hr>
+
+    <footer>
+        <p><a href="#">Contact us</a></p>
+        <p>82/7A, SD Avenue, Kolkata</p>
+        <p>Open everyday from 10 AM to 10 PM</p>
+    </footer>
+</div>
+</body>
+</html>
