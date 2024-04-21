@@ -1,0 +1,837 @@
+<nav id="navbar">
+  <header>Safety Data Sheet for Benzoic Acid</header>
+  <ul>
+    <li><a class="nav-link" href="#Introduction">Introduction</a></li>
+    <li>
+      <a class="nav-link" href="#Hazards_Identification"
+        >Hazards Identification</a>
+    </li>
+    <li><a class="nav-link" href="#Identification">Identification</a></li>
+    <li>
+      <a class="nav-link" href="#Hazards_Identification"
+        >Hazards Identification</a>
+    </li>
+    <li>
+      <a class="nav-link" href="#Composition">Composition or Information</a>
+    </li>
+    <li><a class="nav-link" href="#First_Aid">First Aid</a></li>
+    <li><a class="nav-link" href="#Firefighting">Firefighting measures</a></li>
+    <li>
+      <a class="nav-link" href="#Accidental_release">Accidental Release Measures</a>
+    </li>
+    <li><a class="nav-link" href="#Handling_storage">Handling and storage</a></li>
+    <li><a class="nav-link" href="#Exposure">Exposure controls and protection</a></li>
+    <li><a class="nav-link" href="#Properties">Physical and Chemical Properties</a></li>
+    <li><a class="nav-link" href="#Stability">Stability and Reactivity</a>
+    </li>
+    <li><a class="nav-link" href="#Toxicology">Toxicological Information</a></li>
+    <li><a class="nav-link" href="#Ecology">Ecological Information</a></li>
+    <li>
+      <a class="nav-link" href="#Disposal"
+        >Disposal considerations</a>
+    </li>
+    <li><a class="nav-link" href="#Transport_info">Transport information</a></li>
+    <li><a class="nav-link" href="#Regulatory_info">Regulatory information</a></li>
+    <li><a class="nav-link" href="#Other_info">Other information</a></li>
+    <li><a class="nav-link" href="#Reference">Reference</a></li>
+  </ul>
+</nav>
+
+<main id="main-doc">
+  
+  <section class="main-section" id="Introduction">
+    <header>Introduction</header>
+    <article>
+	<p>
+This is a SAFETY DATA SHEET for Benzoic Acid according to Regulation (EC) No. 1907/2006.<br>
+Version 6.4<br>
+Revision Date 30.04.2021<br>
+Print Date 27.11.2021<br>
+GENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA<br>
+     </p>
+    </article>
+  </section>  
+  
+  <section class="main-section" id="Identification">
+    <header>Identification</header>
+    <article>
+      <p>
+	<ul>
+        <li>
+	<strong>1.1 Product identifiers</strong><br>
+	Product name : Benzoic acid<br>
+	Product Number : 242381<br>
+	Brand : Sigma-Aldrich<br>
+	REACH No. : 01-2119455536-33-XXXX<br>
+	CAS-No. : 65-85-0<br>
+	</li>
+	<li>
+	<strong>1.2 Relevant identified uses of the substance or mixture and uses advised against</strong><br>
+	Identified uses : Laboratory chemicals, Manufacture of substances
+	</li>
+	<li>
+	<strong>1.3 Details of the supplier of the safety data sheet</strong><br>
+	Company : Sigma-Aldrich Chemical Pvt Limited
+	Industrial Area, Anekal Taluka,
+	Plot No 12,
+	12 Bommasandra - Jigani Link Road,
+	560100 BANGALORE,
+	INDIA
+	</li>
+	<li>
+	<strong>1.4 Emergency telephone</strong><br>
+	Emergency Phone # : +91 98802 05043
+	</li>
+	</ul>
+      </p>
+    </article>
+  </section>
+
+<section class="main-section" id="Hazards_Identification">
+    <header>Hazards Identification</header>
+    <article>
+      <p>
+      <ul>
+        <li>
+          <strong>2.1 Classification of the substance or mixture</strong><br>
+Classification according to Regulation (EC) No 1272/2008<br>
+Skin irritation (Category 2), H315<br>
+Serious eye damage (Category 1), H318<br>
+Specific target organ toxicity - repeated exposure, Inhalation (Category 1), Lungs, H372<br>
+For the full text of the H-Statements mentioned in this Section, see Section 16.
+</li>
+<li>
+<strong>2.2 Label elements<br>
+Labelling according Regulation (EC) No 1272/2008</strong><br>
+Signal word: Danger<br>
+Hazard statement(s):<br>
+H315: Causes skin irritation.<br>
+H318: Causes serious eye damage.<br>
+H372: Causes damage to organs (Lungs) through prolonged or repeated exposure if inhaled.<br>
+Precautionary statement(s):<br>
+P260: Do not breathe dust/ fume/ gas/ mist/ vapors/ spray.<br>
+P264: Wash skin thoroughly after handling.<br>
+P280: Wear protective gloves/ eye protection/ face protection.<br>
+P302 + P352: IF ON SKIN: Wash with plenty of water.<br>
+P305 + P351 + P338: IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.<br>
+P314: Get medical advice/ attention if you feel unwell.<br>
+Supplemental Hazard Statements:<br>
+none<br>
+<strong>Reduced Labeling (<= 125 ml)</strong><br>
+Signal word: Danger<br>
+Hazard statement(s):<br>
+H318: Causes serious eye damage.<br>
+H372: Causes damage to organs through prolonged or repeated exposure if inhaled.<br>
+Precautionary statement(s):<br>
+P260: Do not breathe dust/ fume/ gas/ mist/ vapors/ spray.<br>
+P264: Wash skin thoroughly after handling.<br>
+P305 + P351 + P338: IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.<br>
+P314: Get medical advice/ attention if you feel unwell.<br>
+Supplemental Hazard Statements:<br>
+none
+</li>
+<li>
+<strong>2.3 Other hazards</strong><br>
+This substance/mixture contains no components considered to be either persistent, bioaccumulative and toxic (PBT), or very persistent and very bioaccumulative (vPvB) at levels of 0.1% or higher.
+        </li>
+      </ul>
+      </p>
+    </article>
+  </section>
+
+<section class="main-section" id="Composition">
+    <header>Composition or Information</header>
+    <article>
+      <p>
+        <ul>
+	<li><strong>3.1 Substances</strong><br>
+	Formula : C7H6O2<br>
+	Molecular weight : 122,12 g/mol<br>
+	CAS-No. : 65-85-0<br>
+	<code> Classification: Skin Irrit. 2; Eye Dam. 1;
+		Concentration <= 100% </code><br>
+	EC-No. : 200-618-2<br>
+	<code> Classification: STOT RE 1; H315, H318, H372
+		</code>
+	</li>
+	</ul>
+      </p>
+    </article>
+  </section>
+
+
+  <section class="main-section" id="First_Aid">
+    <header>First Aid</header>
+    <article>
+      <p>
+	<ul>
+    <li><strong>4.1 Description of first-aid measures<br></strong>
+	General advice:<br>
+Show this material safety data sheet to the doctor in attendance.<br>
+	If inhaled:<br>
+After inhalation: fresh air. Call in physician.<br>
+	In case of skin contact:<br>
+Take off immediately all contaminated clothing. Rinse skin with water/ shower.<br>
+	In case of eye contact:<br>
+After eye contact: rinse out with plenty of water. Immediately call in ophthalmologist. Remove contact lenses.<br>
+	If swallowed:<br>
+After swallowing: immediately make victim drink water (two glasses at most). Consult a physician.<br>
+</li>
+<li>
+<strong>4.2 Most important symptoms and effects, both acute and delayed</strong><br>
+The most important known symptoms and effects are described in the labelling (see section 2.2) and/or in section 11<br>
+</li>
+<li>
+  <strong>4.3 Indication of any immediate medical attention and special treatment needed</strong><br>
+No data available
+    </li>
+      </ul>
+      </p>
+    </article>
+  </section>
+    
+    
+
+  <section class="main-section" id="Firefighting">
+    <header>Firefighting measures</header>
+    <p>
+      <ul>
+	<li><strong>5.1 Extinguishing media</strong><br>
+	Suitable extinguishing media:<br>
+	Water Foam Carbon dioxide (CO2) Dry powder<br>
+	Unsuitable extinguishing media:<br>
+	For this substance/mixture no limitations of extinguishing agents are given.
+	</li>
+	<li><strong>5.2 Special hazards arising from the substance or mixture</strong><br>
+	Carbon oxides<br>
+	Combustible.<br>
+	Development of hazardous combustion gases or vapours possible in the event of fire.<br>
+	</li>
+	<li>
+	<strong>5.3 Advice for firefighters</strong><br>
+Stay in danger area only with self-contained breathing apparatus. Prevent skin contact by keeping a safe distance or by wearing suitable protective clothing.<br>
+	</li>
+	<li>
+<strong>5.4 Further information</strong><br>
+Prevent fire extinguishing water from contaminating surface water or the ground water system.
+        </li>
+    </ul>
+    </p>
+  </section>
+    
+  <section class="main-section" id="Accidental_release">
+    <header>Accidental Release Measures</header>
+    <article>
+      <p>
+	<ul>
+	<li>
+<strong>6.1 Personal precautions, protective equipment and emergency procedures</strong><br>
+Advice for non-emergency personnel: Avoid generation and inhalation of dusts in all circumstances. Avoid substance contact. Ensure adequate ventilation. Evacuate the danger area, observe emergency procedures, consult an expert.<br>
+For personal protection see section 8.<br>
+	</li>
+	<li>
+<strong>6.2 Environmental precautions</strong><br>
+Do not let product enter drains.
+	</li>
+	<li>
+<strong>6.3 Methods and materials for containment and cleaning up</strong><br>
+Cover drains. Collect, bind, and pump off spills. Observe possible material restrictions (see sections 7 and 10). Take up dry. Dispose of properly. Clean up affected area. Avoid generation of dusts.
+	</li>
+	<li>
+<strong>6.4 Reference to other sections</strong><br>
+For disposal see section 13.
+       </li>
+      </ul>
+      </p>
+    </article>
+  </section>
+    
+  <section class="main-section" id="Handling_storage">
+    <header>Handling and storage</header>
+    <article>
+      <p>
+	<ul>
+	<li>
+	<strong>7.1 Precautions for safe handling</strong><br>
+Advice on safe handling:<br>
+Work under hood. Do not inhale substance/mixture.<br>
+Hygiene measures:<br>
+Immediately change contaminated clothing. Apply preventive skin protection. Wash hands and face after working with substance.<br>
+For precautions see section 2.2.<br>
+	</li>
+	<li>
+<strong>7.2 Conditions for safe storage, including any incompatibilities</strong><br>
+Storage conditions:<br>
+Tightly closed. Dry. Keep in a well-ventilated place. Keep locked up or in an area accessible only to qualified or authorized persons.<br>
+	</li>
+	<li>
+<strong>7.3 Specific end use(s)</strong><br>
+Apart from the uses mentioned in section 1.2 no other specific uses are stipulated
+	</li>
+	</ul> 
+       </p>
+    </article>
+  </section>
+
+
+  <section class="main-section" id="Exposure">
+    <header>Exposure controls and protection</header>
+    <article>
+      <p>
+        <ul>
+	<li>
+<strong>8.1 Control parameters</strong><br>
+Ingredients with workplace control parameters:<br>
+Derived No Effect Level (DNEL)<br>
+	<code>
+Workers exposed by Inhalation: Long-term local effects by 0,1 mg/m3
+	</code>
+	<code>
+Workers exposed by Inhalation: Long-term systemic effects by 3 mg/m3
+	</code>
+	<code>
+Workers exposed by Skin contact: Long-term systemic effects by 62,5mg/kg BW/d
+	</code>
+Predicted No Effect Concentration (PNEC)<br>
+	<code>
+Soil: 0,151 mg/kg
+Sea water: 0,034 mg/l
+Sea sediment: 0,175 mg/kg
+Fresh water sediment: 1,75 mg/kg
+Sewage treatment plant: 100 mg/l
+Aquatic intermittent release: 0,331 mg/l
+	</code>
+	</li>
+	<li>
+<strong>8.2 Exposure controls</strong><br>
+Personal protective equipment:<br>
+Eye/face protection:<br>
+Use equipment for eye protection tested and approved under appropriate 
+government standards such as NIOSH (US) or EN 166(EU). Tightly fitting safety 
+goggles<br>
+Skin protection:<br>
+This recommendation applies only to the product stated in the safety data sheet, 
+supplied by us and for the designated use. When dissolving in or mixing with other 
+substances and under conditions deviating from those stated in EN374 please 
+contact the supplier of CE-approved gloves (e.g. KCL GmbH, D-36124 Eichenzell, 
+Internet: www.kcl.de).<br>
+Full contact:<br>
+Material: Nitrile rubber<br>
+Minimum layer thickness: 0,11 mm<br>
+Break through time: 480 min<br>
+Material tested:KCL 741 Dermatril® L<br>
+This recommendation applies only to the product stated in the safety data sheet, 
+supplied by us and for the designated use. When dissolving in or mixing with other 
+substances and under conditions deviating from those stated in EN374 please 
+contact the supplier of CE-approved gloves (e.g. KCL GmbH, D-36124 Eichenzell, 
+Internet: www.kcl.de).<br>
+Splash contact:<br>
+Material: Nitrile rubber<br>
+Minimum layer thickness: 0,11 mm<br>
+Break through time: 480 min<br>
+Material tested:KCL 741 Dermatril® L<br>
+Body Protection:<br>
+protective clothing<br>
+Respiratory protection:<br>
+required when dusts are generated.<br>
+Our recommendations on filtering respiratory protection are based on the following 
+standards: DIN EN 143, DIN 14387 and other accompanying standards relating to 
+the used respiratory protection system.<br>
+Recommended Filter type: Filter type P2<br>
+The entrepeneur has to ensure that maintenance, cleaning and testing of respiratory 
+protective devices are carried out according to the instructions of the producer. 
+These measures have to be properly documented.<br>
+Control of environmental exposure:<br>
+Do not let product enter drains.<br>
+	</li>
+	</ul>
+      </p>
+    </article>
+  </section>
+
+  <section class="main-section" id="Properties">
+    <header>Physical and Chemical Properties</header>
+    <article>
+      <p>
+	<ul>
+	<li>
+<strong>9.1 Information on basic physical and chemical properties</strong><br>
+a) Appearance<br>
+Form: crystalline<br>
+Color: white<br>
+b) Odor: 
+No data available<br>
+c) Odor Threshold: 
+No data available<br>
+d) pH: 
+2,8 at 25 °C<br>
+e) Melting point/freezing point:<br>
+Melting point/range: 
+121 - 125 °C - lit.<br>
+f) Initial boiling point and boiling range: 
+249 °C - lit.<br>
+g) Flash point: 
+No data available<br>
+h) Evaporation rate: 
+No data available<br>
+i) Flammability (solid, gas): 
+No data available<br>
+j) Upper/lower flammability or explosive limits: 
+No data available<br>
+k) Vapor pressure: 
+No data available<br>
+l) Vapor density: 
+4,22 - (Air = 1.0)<br>
+m) Relative density: 
+No data available<br>
+n) Water solubility: 
+No data available<br>
+o) Partition coefficient (n-octanol/water): 
+log Pow: 1,88 - Bioaccumulation is not expected.<br>
+p) Autoignition temperature:
+No data available<br>
+q) Decomposition temperature:
+No data available<br>
+r) Viscosity<br> 
+Viscosity, kinematic: No data available<br>
+Viscosity, dynamic: No data available<br>
+s) Explosive properties: 
+No data available<br>
+t) Oxidizing properties: 
+No data available<br>
+	</li>
+	<li>
+<strong>9.2 Other safety information</strong><br>
+Surface tension:<br> 
+67,5 mN/m at 1g/l at 20 °C - OECD Test Guideline 115<br>
+Relative vapor density:<br>
+4,22 - (Air = 1.0)
+	</li>
+	</ul>
+	</p>        
+    </article>
+  </section>
+
+
+  <section class="main-section" id="Stability">
+    <header>Stability and Reactivity</header>
+    <article>
+      <p>
+      <ul>
+        <li>
+<strong>10.1 Reactivity</strong><br>
+The following applies in general to flammable organic substances and mixtures: in 
+correspondingly fine distribution, when whirled up a dust explosion potential may generally 
+be assumed.
+	</li>
+	<li>
+<strong>10.2 Chemical stability</strong><br>
+The product is chemically stable under standard ambient conditions (room temperature).
+	</li>
+	<li>
+<strong>10.3 Possibility of hazardous reactions</strong><br>
+Risk of ignition or formation of inflammable gases or vapours with:<br>
+Fluorine<br>
+Exothermic reaction with:<br>
+bases<br>
+Strong oxidizing agents<br>
+Strong bases<br>
+nitrites<br>
+strong reducing agents<br>
+	</li>
+	<li>
+<strong>10.4 Conditions to avoid</strong><br>
+no information available<br>
+	</li>
+	<li>
+<strong>10.5 Incompatible materials</strong><br>
+No data available
+	</li>
+	<li>
+<strong>10.6 Hazardous decomposition products</strong><br>
+In the event of fire: see section 5
+          </li>
+      </ul>
+      </p>
+    </article>
+  </section>
+
+<section class="main-section" id="Toxicology">
+    <header>Toxicological Information</header>
+    <article>
+	<p>
+      <ul>
+        <li>
+          <strong>11.1 Information on toxicological effects</strong><br>
+Acute toxicity:<br>
+LD50 Oral - Mouse - male and female - 2.250 mg/kg
+(OECD Test Guideline 401)<br>
+Symptoms: Nausea, Vomiting, Irritation of mucous membranes<br>
+LC50 Inhalation - Rat - male and female - 4 h - > 12,2 mg/l<br>
+Remarks: (ECHA)Symptoms: Cough, Possible damages:, mucosal irritations<br>
+LD50 Dermal - Rabbit - male and female - > 2.000 mg/kg<br>
+Remarks: (ECHA)<br>
+Skin corrosion/irritation:<br>
+Classified according to Regulation (EU) 1272/2008, Annex VI (Table 3.1/3.2)<br>
+Serious eye damage/eye irritation:<br>
+Eyes - Rabbit<br>
+Result: Corrosive - 21 Days<br>
+(Directive 67/548/EEC, Annex V, B.5.)
+(Regulation (EC) No 1272/2008, Annex VI)<br>
+Respiratory or skin sensitization:<br>
+Local lymph node assay (LLNA) - Mouse<br>
+Result: negative<br>
+Remarks: (ECHA)<br>
+Germ cell mutagenicity:<br>
+Test Type: Mutagenicity (mammal cell test): chromosome aberration.<br>
+Test system: Chinese hamster fibroblasts<br>
+Metabolic activation: without metabolic activation<br>
+Result: Positive results were obtained in some in vitro tests.<br>
+Remarks: (ECHA)<br>
+Test Type: Micronucleus test<br>
+Test system: mouse lymphoma cells<br>
+Metabolic activation: with and without metabolic activation<br>
+Method: OECD Test Guideline 487<br>
+Result: negative<br>
+Carcinogenicity:
+No data available<br>
+Reproductive toxicity:
+No data available<br>
+Specific target organ toxicity - single exposure:
+No data available<br>
+Specific target organ toxicity - repeated exposure:
+Inhalation - Causes damage to organs through prolonged or repeated exposure. - Lungs<br>
+Remarks: 
+Classified according to Regulation (EU) 1272/2008, Annex VI (Table 3.1/3.2)<br>
+Aspiration hazard:
+No data available<br>
+        </li>
+	<li>
+<strong>11.2 Additional Information</strong><br>
+Repeated dose toxicity - Rat - male and female - inhalation (dust/mist/fume) - 28 Days<br>
+Repeated dose toxicity - Rabbit - male and female - Dermal - 21 Days - NOAEL (No 
+observed adverse effect level) - > 2.500 mg/kg<br>
+RTECS: DG0875000<br>
+To the best of our knowledge, the chemical, physical, and toxicological properties have not 
+been thoroughly investigated.<br>
+	</li>
+      </ul>
+     </p>
+    </article>
+  </section>
+
+<section class="main-section" id="Ecology">
+    <header>Ecological Information</header>
+    <article>
+	<p>
+      <ul>
+        <li>
+<strong>12.1 Toxicity</strong><br>
+Toxicity to fish:<br> 
+static test LC50 - Lepomis macrochirus - 44,6 mg/l - 96 h
+(US-EPA)<br>
+Toxicity to daphnia 
+and other aquatic 
+invertebrates:<br>
+static test LC50 - Daphnia magna (Water flea) - > 100 mg/l - 48 h
+(US-EPA)<br>
+Toxicity to algae:<br> 
+static test ErC50 - Pseudokirchneriella subcapitata - > 33,1 mg/l -
+72 h
+(OECD Test Guideline 201)<br>
+Toxicity to bacteria:<br> 
+static test IC50 - activated sludge - > 1.000 mg/l - 3 h
+(OECD Test Guideline 209)<br>
+microtox test EC50 - Photobacterium phosphoreum - 17 mg/l - 30 
+min<br>
+Remarks: (Lit.)
+        </li>
+	<li>
+<strong>12.2 Persistence and degradability</strong><br>
+Biodegradability:<br> 
+anaerobic - Exposure time 35 d<br>
+Result: 89,5 % - Biodegradable
+(OECD Test Guideline 311)<br>
+	</li>
+	<li>
+<strong>12.3 Bioaccumulative potential</strong><br>
+No data available
+ 	</li>
+	<li>
+<strong>12.4 Mobility in soil</strong><br>
+No data available
+	</li>
+	<li>
+<strong>12.5 Results of PBT and vPvB assessment</strong><br>
+This substance/mixture contains no components considered to be either persistent, 
+bioaccumulative and toxic (PBT), or very persistent and very bioaccumulative (vPvB) at 
+levels of 0.1% or higher.
+	</li>
+	<li>
+<strong>12.6 Other adverse effects</strong><br>
+No data available
+	</li>
+      </ul>
+     </p>
+    </article>
+  </section>
+
+<section class="main-section" id="Disposal">
+    <header>Disposal considerations</header>
+    <article>
+	<p>
+      <ul>
+        <li>
+          <strong>13.1 Waste treatment methods</strong><br>
+Product:<br>
+See www.retrologistik.com for processes regarding the return of chemicals and 
+containers, or contact us there if you have further questions.
+        </li>
+      </ul>
+     </p>
+    </article>
+  </section>
+
+<section class="main-section" id="Transport_info">
+    <header>Transport Information</header>
+    <article>
+	<p>
+      <ul>
+        <li>
+          <strong>14.1 UN number</strong><br>
+ADR/RID: -<br>   
+IMDG: -<br>   
+IATA: -<br>
+	</li>
+	<li>
+<strong>14.2 UN proper shipping name</strong><br>
+ADR/RID: Not dangerous goods<br>
+IMDG: Not dangerous goods<br>
+IATA: Not dangerous goods<br>
+	</li>
+	<li>
+<strong>14.3 Transport hazard class(es)</strong><br>
+ADR/RID: -<br> 
+IMDG: -<br> 
+IATA: -<br>
+	</li>
+	<li>
+<strong>14.4 Packaging group</strong><br>
+ADR/RID: -<br>   
+IMDG: -<br>   
+IATA: -<br>
+	</li>
+	<li>
+<strong>14.5 Environmental hazards</strong><br>
+ADR/RID: no<br> 
+IMDG Marine pollutant: no <br>
+IATA: no
+	</li>
+	<li>
+<strong>14.6 Special precautions for user</strong><br>
+No data available
+        </li>
+      </ul>
+     </p>
+    </article>
+  </section>
+
+<section class="main-section" id="Regulatory_info">
+    <header>Regulatory Information</header>
+    <article>
+	<p>
+      <ul>
+        <li>
+<strong>15.1 Safety, health and environmental regulations/legislation specific for the 
+substance or mixture</strong><br>
+This material safety data sheet complies with the requirements of Regulation (EC) No. 
+1907/2006.<br>
+National legislation:<br>
+Seveso III: Directive 2012/18/EU of the 
+European Parliament and of the Council on the 
+control of major-accident hazards involving 
+dangerous substances:<br> Not applicable<br>
+Other regulations:<br>
+Take note of Dir 94/33/EC on the protection of young people at work.<br>
+	</li>
+	<li>
+<strong>15.2 Chemical Safety Assessment</strong><br>
+A Chemical Safety Assessment has been carried out for this substance.
+        </li>
+      </ul>
+     </p>
+    </article>
+  </section>
+
+<section class="main-section" id="Other_info">
+    <header>Other Information</header>
+    <article>
+	<p>
+      <ul>
+        <li>
+Full text of H-Statements referred to under sections 2 and 3:<br>
+H315 Causes skin irritation.<br>
+H318 Causes serious eye damage.<br>
+H372 Causes damage to organs through prolonged or repeated exposure if 
+inhaled.
+	</li>
+	<li>
+Further information:<br>
+The above information is believed to be correct but does not purport to be all inclusive 
+and shall be used only as a guide. The information in this document is based on the 
+present state of our knowledge and is applicable to the product with regard to 
+appropriate safety precautions. It does not represent any guarantee of the properties of 
+the product. Sigma-Aldrich Corporation and its Affiliates shall not be held liable for any 
+damage resulting from handling or from contact with the above product. See 
+www.sigma-aldrich.com and/or the reverse side of invoice or packing slip for additional 
+terms and conditions of sale.          
+        </li>
+      </ul>
+     </p>
+    </article>
+  </section>
+
+<section class="main-section" id="Reference">
+    <header>Reference</header>
+    <article>
+	<p>
+Copyright 2020 Sigma-Aldrich Co. LLC. License granted to make unlimited paper copies 
+for internal use only.<br>
+All the documentation in this page is taken from
+          <a
+            href="https://www.sigmaaldrich.com/IN/en/product/sial/242381"
+            target="_blank"
+            >Sigma-Aldrich</a>
+        
+     </p>
+    </article>
+  </section>
+</main>
+
+html,
+body {
+  min-width: 290px;
+  color: #4d4e53;
+  background-color: #ffffff;
+  font-family: 'Open Sans', Arial, sans-serif;
+  line-height: 1.5;
+}
+
+#navbar {
+  position: fixed;
+  min-width: 290px;
+  top: 0px;
+  left: 0px;
+  width: 300px;
+  height: 100%;
+  border-right: solid;
+  border-color: rgba(0, 22, 22, 0.4);
+}
+
+header {
+  color: black;
+  margin: 10px;
+  text-align: center;
+  font-size: 1.8em;
+  font-weight: thin;
+}
+
+#main-doc header {
+  text-align: left;
+  margin: 0px;
+}
+
+#navbar ul {
+  height: 88%;
+  padding: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#navbar li {
+  color: #4d4e53;
+  border-top: 1px solid;
+  list-style: none;
+  position: relative;
+  width: 100%;
+}
+
+#navbar a {
+  display: block;
+  padding: 10px 30px;
+  color: #4d4e53;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#main-doc {
+  position: absolute;
+  margin-left: 310px;
+  padding: 20px;
+  margin-bottom: 110px;
+}
+
+section article {
+  color: #4d4e53;
+  margin: 15px;
+  font-size: 0.96em;
+}
+
+section li {
+  margin: 15px 0px 0px 20px;
+}
+
+code {
+  display: block;
+  text-align: left;
+  white-space: pre-line;
+  position: relative;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 2;
+  background-color: #f7f7f7;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+@media only screen and (max-width: 815px) {
+  #navbar ul {
+    border: 1px solid;
+    height: 207px;
+  }
+
+  #navbar {
+    background-color: white;
+    position: absolute;
+    top: 0;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    max-height: 275px;
+    border: none;
+    z-index: 1;
+    border-bottom: 2px solid;
+  }
+
+  #main-doc {
+    position: relative;
+    margin-left: 0px;
+    margin-top: 270px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  #main-doc {
+    margin-left: -10px;
+  }
+
+  code {
+    margin-left: -20px;
+    width: 100%;
+    padding: 15px;
+    padding-left: 10px;
+    padding-right: 45px;
+    min-width: 233px;
+  }
+}
