@@ -1,0 +1,126 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Landing Page</title>
+    <link rel="stylesheet" href="https://use.font.awesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
+</head>
+<body>
+
+<div id="page-wrapper">
+    <header id="header">
+        <div class="logo">
+            <img id="header-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyudfbalnxWKMC-f6TN67G_qGMP303PNKUpw&usqp=CAU" alt="Café logo">
+        </div>
+        <nav id="nav-bar">
+            <ul>
+                <li><a class="nav-link" href="#features">Features</a></li>
+                <li><a class="nav-link" href="#recipes">Recipes</a></li>
+                <li><a class="nav-link" href="#menu">Menu</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <h2>Handcrafted beverages by Sree's Café</h2>
+        <form id="form" action="https://www.freecodecamp.com/email-submit">
+            <input name="email" id="email" type="email" placeholder="Enter your email address" required>
+            <input id="submit" type="submit" value="Get Started" class="btn">
+        </form>
+    </section>
+
+    <section id="features">
+        <div class="grid">
+            <div class="icon"><i class="fa fa-3x fa-fire"></i></div>
+            <div class="desc">
+                <h2>Premium Coffee</h2>
+                <p>We, at Sree's Cafe, use the best Indian coffee beans sourced from family farms in the Western Ghats. Every cup will have the perfect brew and taste!</p>
+            </div>
+        </div>
+        <div class="grid">
+            <div class="icon"><i class="fa fa-3x fa-truck"></i></div>
+            <div class="desc">
+                <h2>Fast Delivery</h2>
+                <p>We make sure you receive your order as soon as we have finished preparing. We also provide samples with your first order!</p>
+            </div>
+        </div>
+        <div class="grid">
+            <div class="icon"><i class="fa fa-3x fa-battery-full" aria-hidden="true"></i></div>
+            <div class="desc">
+                <h2>Discounts</h2>
+                <p>Sign up with your email address to unlock special discounts and other privileges on your birthday every year!</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="recipes">
+        <iframe id="video" height="315" src="https://www.youtube.com/embed/Ky_CqULnZmw" frameborder="0" allowfullscreen></iframe>
+    </section>
+
+    <section id="menu">
+        <div class="product" id="pequeno">
+            <div class="level">Pequeño</div>
+            <h2>₹250</h2>
+            <ol>
+                <li>Small cup of coffee</li>
+                <li>350ml</li>
+                <li>Perfect for that tiny caffeine craving</li>
+            </ol>
+            <button class="btn">Order</button>
+        </div>
+        <div class="product" id="mediano">
+            <div class="level">Mediano</div>
+            <h2>₹400</h2>
+            <ol>
+                <li>Medium cup of coffee</li>
+                <li>475 ml</li>
+                <li>Perfect to start your day with</li>
+            </ol>
+            <button class="btn">Order</button>
+        </div>
+        <div class="product" id="grande">
+            <div class="level">Grande</div>
+            <h2>₹600</h2>
+            <ol>
+                <li>Large cup of coffee</li>
+                <li>700 ml</li>
+                <li>Perfect for long conversations or work</li>
+            </ol>
+            <button class="btn">Order</button>
+        </div>
+    </section>
+
+    <footer>
+        <ul>
+            <li><a href="#">Privacy</a></li>
+            <li><a href="#">Terms</a></li>
+            <li><a href="#">Contact us</a></li>
+        </ul>
+        <span>Copyright 2022, Sree's Café</span>
+    </footer>
+</div>
+
+</body>
+</html>
+```
+
+CSS:
+```css
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #eee;
+    font-family: 'Lato', sans-serif;
+}
+
+#page-wrapper {
+    position: relative;
+    text-align: center; /* Align center corrected */
+}
