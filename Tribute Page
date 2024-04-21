@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute to Marie Curie</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main id="main">
+        <h1 id="title">Marie Curie</h1>
+        <p>The only person to win the Nobel Prize in two scientific fields</p>
+        <figure id="img-div">
+            <img id="image" src="https://cdn.britannica.com/w:690,h:388,c:crop/10/74610-050-19CB330C/Marie-Curie-Paris-laboratory.jpg" alt="Marie Curie in her Paris laboratory">
+            <figcaption id="img-caption">Marie Curie in her Paris laboratory. Source: Shutterstock.com</figcaption>
+        </figure>
+        <section id="tribute-info">
+            <h3 id="headline">Here are some facts about this inspiring woman:</h3>
+            <ul>
+                <li><strong>Full Name</strong> - Marie Curie, née Sklodowska</li>
+                <li><strong>Born</strong> - 7 November 1867, Warsaw, Russian Empire (now Poland)</li>
+                <li><strong>Died</strong> - 4 July 1934, Sallanches, France</li>
+                <li><strong>First Nobel Prize</strong> - The Nobel Prize in Physics 1903</li>
+                <li><strong>Motivation</strong> - "in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel."</li>
+                <li><strong>Prize share</strong> - 1/4</li>
+                <li><strong>Second Nobel Prize</strong> - The Nobel Prize in Chemistry 1911</li>
+                <li><strong>Motivation</strong> - "in recognition of her services to the advancement of chemistry by the discovery of the elements radium and polonium, by the isolation of radium and the study of the nature and compounds of this remarkable element."</li>
+                <li><strong>Prize share</strong> - 1/1</li>
+            </ul>
+            <p>
+                <strong>Life</strong> <br>
+                Marie Sklodowska was born in Warsaw, Poland, to a family of teachers who believed strongly in education. She moved to Paris to continue her studies and there met Pierre Curie, who became both her husband and colleague in the field of radioactivity. The couple later shared the 1903 Nobel Prize in Physics. Marie was widowed in 1906, but continued the couple's work and went on to become the first person ever to be awarded two Nobel Prizes. During World War I, Curie organized mobile X-ray teams. The Curies' daughter, Irene, was also jointly awarded the Nobel Prize in Chemistry alongside her husband, Frederic Joliot.
+                <br>
+                <br>
+                <strong>Work</strong> <br>
+                1903 Prize: The 1896 discovery of radioactivity by Henri Becquerel inspired Marie and Pierre Curie to further investigate this phenomenon. They examined many substances and minerals for signs of radioactivity. They found that the mineral pitchblende was more radioactive than uranium and concluded that it must contain other radioactive substances. From it they managed to extract two previously unknown elements, polonium and radium, both more radioactive than uranium.
+
+                1911 Prize: After Marie and Pierre Curie first discovered the radioactive elements polonium and radium, Marie continued to investigate their properties. In 1910 she successfully produced radium as a pure metal, which proved the new element's existence beyond a doubt. She also documented the properties of the radioactive elements and their compounds. Radioactive compounds became important as sources of radiation in both scientific experiments and in the field of medicine, where they are used to treat tumors.
+            </p>
+            <blockquote cite="https://www.mariecurie.org.uk/who/our-history/marie-curie-the-scientist">
+                <p>
+                    "I am among those who think that science has great beauty. A scientist in his laboratory is not only a technician: he is also a child placed before natural phenomena which impress him like a fairy tale."
+                </p>
+                <cite>-- One of the famous quotes by Marie Curie</cite>
+            </blockquote>
+            <h3>
+                If you want to read a story about all her contributions, career and life, visit:
+                <a id="tribute-link" href="https://www.nobelprize.org/womenwhochangedscience/stories/marie-curie" target="_blank">Stories of Women who changed Science</a>
+            </h3>
+        </section>
+    </main>
+</body>
+</html>
